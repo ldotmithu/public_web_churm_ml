@@ -1,0 +1,5 @@
+scikit-learn== 1.5.2
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+streamlit-option-menu==0.3.2
